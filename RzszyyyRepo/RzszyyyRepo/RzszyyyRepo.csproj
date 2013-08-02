@@ -71,6 +71,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -81,6 +82,150 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Network2-32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\word 2003-32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\word遇到问题需要关闭.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\风眼ico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 001.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 002.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 004.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 005.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 010.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 011.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 014.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 016.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 017.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 018.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 019.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 020.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 021.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 022.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 023.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 028.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 035.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 046.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 047.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 048.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 056.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 061.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 082.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 083.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 086.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 104.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 110.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 112.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 127.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 128.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 129.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 130.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 131.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 132.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 149.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 150.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 151.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 159.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 161.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 165.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 206.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 220.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell32 221.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
