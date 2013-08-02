@@ -6,10 +6,11 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using DevComponents.DotNetBar;
 
 namespace RzszyyyRepo
 {
-    public partial class Form1 : Form
+    public partial class Form1 : Office2007RibbonForm 
     {
         public Form1()
         {
